@@ -1,0 +1,40 @@
+{
+  "identifier": "0",
+  "nonRenewingSubscriptions": [],
+  "products": [],
+  "settings": {},
+  "subscriptionGroups": [
+    {
+      "id": "1",
+      "localizations": [],
+      "name": "WarrantyBox Pro",
+      "subscriptions": [
+        {
+          "adHocOffers": [],
+          "codeOffers": [],
+          "displayPrice": "1.99",
+          "familyShareable": false,
+          "groupNumber": 1,
+          "internalID": "sub_1",
+          "introductoryOffer": null,
+          "localizations": [
+            {
+              "description": "Log every appliance and gadget purchase with receipt photo and warranty expiry so you never miss a claim window.",
+              "displayName": "WarrantyBox Pro",
+              "locale": "en_US"
+            }
+          ],
+          "productID": "com.shimondeitel.warrantybox.pro.monthly",
+          "recurringSubscriptionPeriod": "P1M",
+          "referenceName": "WarrantyBox Pro Monthly",
+          "subscriptionGroupID": "1",
+          "type": "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
